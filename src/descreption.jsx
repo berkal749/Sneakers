@@ -35,9 +35,13 @@ function Description() {
 
       <div className="flex justify-between w-113 h-12">
         <div className="flex h-12 w-34 rounded-lg font-bold text-md text-amber-600  items-center bg-gray-200 justify-around">
-          <button onClick={()=>Minus()} className="text-2xl font-extrabold">-</button>
+          <button onClick={() => Minus()} className="text-2xl font-extrabold">
+            -
+          </button>
           <p className="text-black">{count}</p>
-          <button onClick={()=>Add()} className="text-2xl font-extrabold">+</button>
+          <button onClick={() => Add()} className="text-2xl font-extrabold">
+            +
+          </button>
         </div>
 
         <button className=" w-md ml-3 rounded-md bg-orange-500 hover:bg-orange-600">

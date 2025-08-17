@@ -1,16 +1,13 @@
-import Contact from "./contact"
+import Contact from "./contact";
 import Display from "./display.jsx";
 function App() {
-  
-    return(
-      <>
-    {/* <Contact/> */}  
+  return (
+    <>
+      {/* <Contact/> */}
 
-    <Display/>
-
-      </>
-
-    );
+      <Display />
+    </>
+  );
 }
 
 export default App;
