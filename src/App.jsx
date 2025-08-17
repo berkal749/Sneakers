@@ -1,14 +1,16 @@
-import Nav from "./nav.jsx";
-import Head from "./head.jsx";
-import Footer from "./Footer.jsx";
+import Contact from "./contact"
+import Display from "./display.jsx";
 function App() {
-  return (
-    <div className="h-screen w-screen">
-      <Nav />
-      <Head />
-      <Footer/>
-    </div>
-  );
+  
+    return(
+      <>
+    {/* <Contact/> */}  
+
+    <Display/>
+
+      </>
+
+    );
 }
 
 export default App;
