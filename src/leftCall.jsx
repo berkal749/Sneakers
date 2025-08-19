@@ -1,7 +1,7 @@
 function leftCall() {
   return (
     <div className="flex flex-col ">
-      <div className="text-3xl font-bold mb-7">Get in Touch</div>
+      <div className="text-3xl font-bold ">Get in Touch</div>
       <div className="text-neutral-600 mb-7 w-6/7">
         Have questions? Reach out to us anytime, we’re here to help you.
       </div>

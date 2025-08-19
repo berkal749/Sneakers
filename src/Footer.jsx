@@ -1,7 +1,7 @@
 function Footer() {
   return (
-    <div className="bg-[hsl(220,16%,35%)] text-white mt-20 h-4/10  flex flex-col justify-center items-center">
-      <div className="w-full h-8/10 flex justify-center items-center  text-white">
+    <div className="bg-[hsl(220,16%,35%)] text-white mt-1 h-70  flex flex-col justify-center items-center">
+      <div className="w-full h-10/10 flex justify-center items-center  text-white">
         <div className="w-3/6   h-1/2 flex flex-col justify-around shadow-2xs shadow-gray-300">
           <div className="font-bold text-4xl "> ARE YOU INTERSTED ?</div>
           <div>

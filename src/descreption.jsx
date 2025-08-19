@@ -12,7 +12,7 @@ function Description() {
   }
 
   return (
-    <div className="w-5/10  h-6/12 flex flex-col justify-between pr-11 pl-10 ">
+    <div className="w-5/10  h-6/12 flex flex-col justify-between pr-11 gap-5 pl-10 ">
       <div className="h-2/8  flex flex-col justify-around">
         <div className="text-amber-500 font-bold"> Sneaker Company</div>
         <div className="text-4xl font-bold">Fall Limited Edition Sneakers</div>
